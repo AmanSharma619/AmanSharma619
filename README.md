@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 
+<div align="center">
+  <img alt="gif" width="500" src="https://media.tenor.com/VkiGkvynb2cAAAAM/who-up-good-morning.gif">
+</div>
 
-<img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansharma619&label=Profile%20views&color=0e75b6&style=flat" alt="amansharma619" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amansharma619&label=Profile%20views&color=0e75b6&style=flat" alt="amansharma619" />
+</p>
 
 # 💫 About Me:
-<br>🎓 Second-year CSE student<br>🌱 Currently diving deep into the Dev and DSA<br>💻 Proficient in MERN stack and building innovative projects<br>🚀 Passionate about creating unique and non repetitive apps.<br>📌 Fun Facts- I enjoy leading teams.
-
+<br>🎓 Second-year CSE student  
+🌱 Currently diving deep into the Dev and DSA  
+💻 Proficient in MERN stack and building innovative projects  
+🚀 Passionate about creating unique and non repetitive apps.  
+📌 Fun Facts - I enjoy leading teams.
 
 ## 🌐 Socials:
 
